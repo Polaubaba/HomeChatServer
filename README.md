@@ -17,3 +17,7 @@ You can access this chat from anywhere in the world lmao.
 # Login Concern
 
 Just simply register your username and password. Just do it. Thats it.
+
+
+# Simplicity at best
+This code is very simple and light weight. Can be easily used throughout.
